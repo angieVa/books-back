@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/*.jar
+web: java -jar build/libs/books-1.0-SNAPSHOT.jar
